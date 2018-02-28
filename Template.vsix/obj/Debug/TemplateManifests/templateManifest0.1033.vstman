@@ -1,0 +1,35 @@
+﻿<VSTemplateManifest Version="1.0" Locale="1033" xmlns="http://schemas.microsoft.com/developer/vstemplatemanifest/2015">
+  <VSTemplateContainer TemplateType="Item">
+    <RelativePathOnDisk>CSharp\科箭\1033\micServiceClassCreator</RelativePathOnDisk>
+    <TemplateFileName>micServiceClassCreator.vstemplate</TemplateFileName>
+    <VSTemplateHeader>
+      <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+        <Name>微服务接口</Name>
+        <Description>微服务接口生成模板</Description>
+        <Icon>micServiceClassCreator.ico</Icon>
+        <TemplateID>e072a5fb-1c6e-4396-981b-ef48f298100e</TemplateID>
+        <ProjectType>CSharp</ProjectType>
+        <ProjectSubType>Office</ProjectSubType>
+        <RequiredFrameworkVersion>2.0</RequiredFrameworkVersion>
+        <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
+        <DefaultName>Class.cs</DefaultName>
+      </TemplateData>
+    </VSTemplateHeader>
+  </VSTemplateContainer>
+  <VSTemplateContainer TemplateType="Item">
+    <RelativePathOnDisk>CSharp\科箭\1033\RpcInterfaceTemplate</RelativePathOnDisk>
+    <TemplateFileName>RpcInterfaceTemplate.vstemplate</TemplateFileName>
+    <VSTemplateHeader>
+      <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+        <Name>RPC接口参数类</Name>
+        <Description>RPC接口参数类 模板</Description>
+        <Icon>RpcInterfaceTemplate.ico</Icon>
+        <TemplateID>933ba1c2-3628-40b8-be28-f5c55280640a</TemplateID>
+        <ProjectType>CSharp</ProjectType>
+        <RequiredFrameworkVersion>2.0</RequiredFrameworkVersion>
+        <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
+        <DefaultName>Class.cs</DefaultName>
+      </TemplateData>
+    </VSTemplateHeader>
+  </VSTemplateContainer>
+</VSTemplateManifest>

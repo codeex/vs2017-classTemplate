@@ -1,0 +1,6 @@
+E:\SCM.FrameworkNetCore\Framework\SCM.MicServiceTemplate\micServiceClassCreator\obj\Debug\micServiceClassCreator.csprojResolveAssemblyReference.cache
+E:\SCM.FrameworkNetCore\Framework\SCM.MicServiceTemplate\micServiceClassCreator\obj\Debug\micServiceClassCreator.csproj.CoreCompileInputs.cache
+E:\SCM.FrameworkNetCore\Framework\SCM.MicServiceTemplate\micServiceClassCreator\obj\Debug\micServiceClassCreator.dll
+E:\SCM.FrameworkNetCore\Framework\SCM.MicServiceTemplate\micServiceClassCreator\obj\Debug\micServiceClassCreator.pdb
+E:\SCM.FrameworkNetCore\Framework\SCM.MicServiceTemplate\micServiceClassCreator\bin\Debug\ItemTemplates\CSharp\科箭\1033\micServiceClassCreator.zip
+E:\SCM.FrameworkNetCore\Framework\SCM.MicServiceTemplate\micServiceClassCreator\obj\Debug\CSharp\科箭\1033\micServiceClassCreator.zip

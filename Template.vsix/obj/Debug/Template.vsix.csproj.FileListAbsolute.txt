@@ -1,0 +1,6 @@
+E:\SCM.FrameworkNetCore\Framework\SCM.MicServiceTemplate\Template.vsix\obj\Debug\Template.vsix.csproj.CoreCompileInputs.cache
+E:\SCM.FrameworkNetCore\Framework\SCM.MicServiceTemplate\Template.vsix\bin\Debug\Template.vsix.vsix
+E:\SCM.FrameworkNetCore\Framework\SCM.MicServiceTemplate\Template.vsix\bin\Debug\extension.vsixmanifest
+E:\SCM.FrameworkNetCore\Framework\SCM.MicServiceTemplate\Template.vsix\obj\Debug\Template.vsix.dll
+E:\SCM.FrameworkNetCore\Framework\SCM.MicServiceTemplate\Template.vsix\obj\Debug\Template.vsix.pdb
+E:\SCM.FrameworkNetCore\Framework\SCM.MicServiceTemplate\Template.vsix\obj\Debug\extension.vsixmanifest

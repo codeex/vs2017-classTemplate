@@ -1,0 +1,6 @@
+E:\SCM.FrameworkNetCore\Framework\SCM.MicServiceTemplate\RpcInterfaceTemplate\obj\Debug\RpcInterfaceTemplate.csprojResolveAssemblyReference.cache
+E:\SCM.FrameworkNetCore\Framework\SCM.MicServiceTemplate\RpcInterfaceTemplate\obj\Debug\RpcInterfaceTemplate.csproj.CoreCompileInputs.cache
+E:\SCM.FrameworkNetCore\Framework\SCM.MicServiceTemplate\RpcInterfaceTemplate\obj\Debug\RpcInterfaceTemplate.dll
+E:\SCM.FrameworkNetCore\Framework\SCM.MicServiceTemplate\RpcInterfaceTemplate\obj\Debug\RpcInterfaceTemplate.pdb
+E:\SCM.FrameworkNetCore\Framework\SCM.MicServiceTemplate\RpcInterfaceTemplate\bin\Debug\ItemTemplates\CSharp\科箭\1033\RpcInterfaceTemplate.zip
+E:\SCM.FrameworkNetCore\Framework\SCM.MicServiceTemplate\RpcInterfaceTemplate\obj\Debug\CSharp\科箭\1033\RpcInterfaceTemplate.zip
